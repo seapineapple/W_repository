@@ -1,3 +1,15 @@
+# Mapes nosaukums
+ Repositorijas mape ir nosaukta "W_REPOSITORY",
+ līdzīgi, kā github repositorija ir nosaukta
+# Apraksts
+ Projekts/repozitorijs šobrīd netiek izmantots nekam pārāk svarīgam.
+ Šobrīd to izmantoju lai iemācītos un iepazītos ar github, git un VScode terminal
+ ## Projekta zari
+ Projektā ir 4 zari
+ 1. Master - galvenais branch
+ 2. file_link - tika izmantots lai izveidotu pull request lai linkotu styles un script ar html
+ 3. interesanti - saturs .txt file ar ineresantiem faktiem
+ 4. extrabranch - tas ir ekstra branch
 ```
 ◘◘◘•••••••♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♣♣♣♣♣♠•◘○○○◘◘◘◘◘•••••♠♠♣♣♣♣♣♣♣♠♠♣♠•◘○○○○○○○○○○○○○○○○○○○○○○◘◘◘◘••♠♠••◘◘◘○○○
 ◘◘◘•••••••♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♠♣♣♠♣♣♠•◘○○○◘◘◘◘◘◘••♠♠♠♠♠♣♣♣♣♣♣♣♠♠•◘◘○○○○○○○○○○○○○○○○○○○○○○◘◘◘◘••♠♠••◘◘◘○○○
