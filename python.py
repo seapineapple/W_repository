@@ -1,0 +1,1 @@
+# SVARĪGS komentārs: Šis ir tikai piemērs, un tas var nebūt pilnīgi precīzs vai piemērots visām situācijām. Lūdzu, pielāgojiet to atbilstoši savām vajadzībām.
